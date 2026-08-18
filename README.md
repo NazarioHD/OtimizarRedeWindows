@@ -58,21 +58,6 @@ O script pode ser útil quando você está enfrentando problemas como:
 * Problemas de conexão após alterações de rede
 * Falhas de comunicação com servidores de jogos
 
-## ⚠️ Importante
-
-O script **não pode garantir**:
-
-* Ping menor
-* Mais velocidade de internet
-* Menor latência em todos os jogos
-* Menor perda de pacotes
-
-O ping depende principalmente da distância até o servidor, rota da operadora, congestionamento, qualidade da conexão e servidor do jogo.
-
-Alguns comandos podem desconectar a internet temporariamente. Por isso, recomenda-se salvar trabalhos e fechar jogos antes de executar.
-
-## 🔄 Depois de executar
-
 Após finalizar o script:
 
 ```text
